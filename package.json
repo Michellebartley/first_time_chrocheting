@@ -1,0 +1,24 @@
+{
+  "name": "first_time_chrocheting",
+  "version": "1.0.0",
+  "description": "A coded story about my favourite hobby",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-sever",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michellebartley/first_time_chrocheting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Michellebartley/first_time_chrocheting/issues"
+  },
+  "homepage": "https://github.com/Michellebartley/first_time_chrocheting#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
